@@ -6,7 +6,7 @@ age and birthday of each person when it is selected, Add button which opens the 
 button which removes a person from the listbox. 
 
 
-![alt text](file:///C:/Users/40772/Desktop/brthd.jpg)
+![plot](C:\Users\40772\Desktop\brthd.jpg)
 
 
 
